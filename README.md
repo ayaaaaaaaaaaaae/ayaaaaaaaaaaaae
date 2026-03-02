@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Aya ALAOUI SOSSÉ</h1>
-<h3 align="center">Big Data Analytics Student | Passionate about turning Data Into Insights</h3>
+<h3 align="center">Big Data Analytics And AI Engineer | Passionate about turning Data Into Insights</h3>
 
 
 
